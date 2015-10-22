@@ -12,6 +12,11 @@ public class AmazonProb2 {
 		int days = 1;
 	    int dummy[] = new int[cells.length];
 	    
+	    for(int h = 0; h < 5; h++)
+	    {
+	    	System.out.println(h * 3);
+	    }
+	    
 	   // System.out.println("aa");
 	    while(days != 0)
 	    {
