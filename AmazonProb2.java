@@ -15,7 +15,6 @@ public class AmazonProb2 {
 	    for(int h = 0; h < 5; h++)
 	    {
 	    	System.out.println(h * 3);
-            gtgfhdj //gibberish
 	    }
 	    
 	   // System.out.println("aa");
